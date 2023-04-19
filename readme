@@ -1,2 +1,2 @@
-run generate,it will generate graph and store in graph
+run generate,it will generate graph and store in graph folder
 then run app.py it will show all the graph in web
